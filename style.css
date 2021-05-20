@@ -3,6 +3,14 @@ body {
     font-family: sans-serif;
 }
 
+h1 {
+    font-family: 'Uncial Antiqua', cursive;
+}
+
+h2 {
+    font-family: 'Inknut Antiqua', serif;
+}
+
 .hero {
     /* Sizing */
     width: 100vw;
